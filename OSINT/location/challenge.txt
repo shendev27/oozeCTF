@@ -1,0 +1,9 @@
+A quiet photograph was taken far from the rush of city life.
+Where is this body of water located?
+
+Format: body of water, city, region, country
+
+*ALWAYS wrap answers in oozeCTF{_answer_}
+
+hint: snow
+
